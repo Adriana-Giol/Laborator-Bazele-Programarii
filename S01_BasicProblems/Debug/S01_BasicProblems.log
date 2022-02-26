@@ -1,0 +1,4 @@
+﻿  BasicProblems.cpp
+C:\Users\Adriana\Desktop\GitHub Local Repository\Laborator-Bazele-Programarii\S01_BasicProblems\BasicProblems.h(17,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Adriana\Desktop\GitHub Local Repository\Laborator-Bazele-Programarii\S01_BasicProblems\BasicProblems.cpp(4,12): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  S01_BasicProblems.vcxproj -> C:\Users\Adriana\Desktop\GitHub Local Repository\Laborator-Bazele-Programarii\S01_BasicProblems\Debug\S01_BasicProblems.exe
